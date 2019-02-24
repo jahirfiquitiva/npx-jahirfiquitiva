@@ -1,0 +1,30 @@
+{
+    "name": "jahirfiquitiva",
+    "version": "0.0.1",
+    "description": "Information about Jahir Fiquitiva",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "node test.js"
+    },
+    "keywords": [
+        "jahirfiquitiva",
+        "jahir",
+        "fiquitiva",
+        "jahir fiquitiva",
+        "information"
+    ],
+    "license": "MIT",
+    "repository": "jahirfiquitiva/jahirfiquitiva",
+    "author": {
+        "name": "Jahir Fiquitiva",
+        "email": "hi@jahir.xyz",
+        "url": "https://jahir.xyz"
+    },
+    "bin": {
+        "jahirfiquitiva": "src/index.js"
+    },
+    "engines": {
+        "node": ">=8"
+    }
+}
