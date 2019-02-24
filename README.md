@@ -7,3 +7,5 @@
 ```
 $ npx jahirfiquitiva
 ```
+
+Inspired ~~and copied~~ from [Sparragus](https://github.com/Sparragus/sparragus)
